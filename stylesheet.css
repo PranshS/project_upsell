@@ -75,10 +75,6 @@ input {
   height: 200px;
 }
 
-.modal-dialog {
-  min-width: 700px;
-}
-
 .modal-dialog .modal-body p {
   font-size: 12px !important;
 }

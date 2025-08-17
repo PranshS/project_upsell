@@ -1,0 +1,19 @@
+================
+PROJECT DESIGN 
+================
+
+This project is designed and developed from scratch using Bootstrap 5, ensuring a modern and fully responsive UI across all devices, from desktops to mobile screens.
+
+=============
+PLUGINS USED
+=============
+
+SwiperJS has been integerated for creating smooth and responsive slider
+
+============
+JAVASCRIP
+============
+
+JavaScript is used to add interactivity — including dynamically updating cards based on user selections from a dropdown.
+
+Overall, the project demonstrates a clean design, mobile-first responsiveness, and interactive features built with lightweight and efficient tools.
